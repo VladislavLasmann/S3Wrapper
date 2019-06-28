@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pyboto3
+Version: 1.4.4
+Summary: Pythonic Interface for AWS boto3 that gives you autocomplete on every service
+Home-page: https://github.com/wavycloud/pyboto3
+Author: WavyCloud
+Author-email: UNKNOWN
+License: MIT License
+Description: UNKNOWN
+Keywords: aws boto3 pythonic python
+Platform: UNKNOWN
